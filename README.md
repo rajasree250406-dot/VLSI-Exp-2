@@ -75,6 +75,7 @@ To design and simulate Y=(A+BC)' circuit using Synopsys EDA tools, analyze its e
 <img width="1600" height="841" alt="WhatsApp Image 2026-10-27 at 12 21 10 PM" src="https://github.com/user-attachments/assets/bd160731-a49b-47fe-80b8-a598e09da0bc" />
 
 
+
 ## Results:
 
 1.	Successfully designed the CMOS logic schematic using Synopsys EDA tools.
